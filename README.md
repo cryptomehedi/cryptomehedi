@@ -30,6 +30,6 @@
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![node Js](https://img.shields.io/badge/Node%Js-563D7C?style=for-the-badge&logo=node&logoColor=white)
+![node Js](https://img.shields.io/badge/Node%20Js-563D7C?style=for-the-badge&logo=node&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
