@@ -7,3 +7,10 @@
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2022, I learned **React.js**, **Node.js**, **React Native**, **Next.js** and **TypeScript**. I got started with [**Crypto Mehedi**](https://cryptomehedi.com) quite recently and made a name for myself.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
+
+## 🛠️ Skills
+
+### Languages
+
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
