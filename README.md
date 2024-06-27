@@ -1,7 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-## 🚀 About Me  <span align="left"><img src="https://komarev.com/ghpvc/?username=cryptomehedi&label=Profile%20views&color=0e75b6&style=flat" alt="cryptomehedi" /></span> 
+## 🚀 About Me  
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cryptomehedi&label=Profile%20views&color=0e75b6&style=flat" alt="cryptomehedi" /></p> 
 
 🎓 I am Mehedi Hasan, a MERN Full Stack Developer . **Front End Web Developer** (specializing in **React Applications**) and a **Back End Web Developer** (specializing in **Node Js**)
 
@@ -26,13 +28,13 @@
 - 👨‍💻 All of my projects are available at [**cryptomehedi**](https://crypto-mehedi.web.app)
 
 
-### 🛠️ Skills & Languages
+## 🛠️ Skills & Languages
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
-### Front-End Development
+## 💻 Front-End Development
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&style=plastic)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)
@@ -47,7 +49,7 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=plastic)
 
-### Back End Development
+## 🛜 Back End Development
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white&style=plastic)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&style=plastic)
@@ -57,6 +59,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&style=plastic)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=plastic)
 
+## ✌️ My History
 
 <p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /> <img height="170" src="https://github-readme-stats.vercel.app/api?username=cryptomehedi&count_private=true&include_all_commits=true" /></p>
 
