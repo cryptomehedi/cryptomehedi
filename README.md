@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-## 🚀 About Me
+## 🚀 About Me   <img src="https://komarev.com/ghpvc/?username=cryptomehedi&label=Profile%20views&color=0e75b6&style=flat" alt="cryptomehedi" />
 
 🎓 I am Mehedi Hasan, a MERN Full Stack Developer . **Front End Web Developer** (specializing in **React Applications**) and a **Back End Web Developer** (specializing in **Node Js**)
 
@@ -9,7 +9,6 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptomehedi&label=Profile%20views&color=0e75b6&style=flat" alt="cryptomehedi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +20,7 @@
 
 ## 🏆 Github Profile Trophy
 
-<p align="left"> <a href="https://github.com/cryptomehedi"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=cryptomehedi&column=10&theme=gruvbox&no-frame=true" alt="cryptomehedi" /></a> </p>
+<p align="left"> <a href="https://github.com/cryptomehedi"> <img src="https://github-profile-trophy.vercel.app/?username=cryptomehedi&column=10&theme=gruvbox&no-frame=true" alt="cryptomehedi" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [**cryptomehedi**](https://crypto-mehedi.web.app)
