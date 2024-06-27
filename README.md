@@ -19,14 +19,15 @@
 <a href="https://instagram.com/crypto_mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cryptomehedi" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Skills
+## 🏆 Github Profile Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptomehedi" alt="cryptomehedi" /></a> </p>
+<p align="left"> <a href="https://github.com/cryptomehedi"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=cryptomehedi&column=10&theme=gruvbox&no-frame=true" alt="cryptomehedi" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [**cryptomehedi**](https://crypto-mehedi.web.app)
 
 
-### Languages
+### 🛠️ Skills & Languages
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=plastic)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)
@@ -56,3 +57,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=plastic)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&style=plastic)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=plastic)
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /></p>
+
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
