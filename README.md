@@ -61,4 +61,4 @@
 
 <p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /> <img height="170" src="https://github-readme-stats.vercel.app/api?username=cryptomehedi&count_private=true&include_all_commits=true" /></p>
 
-<p align="center" ><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
+<p align="center" ><img width="90%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
