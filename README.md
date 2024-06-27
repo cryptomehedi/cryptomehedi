@@ -55,10 +55,3 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=plastic)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&style=plastic)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=plastic)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic)
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
