@@ -59,6 +59,4 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=plastic)
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /></p>
-
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptomehedi&show_icons=true&locale=en&layout=compact" alt="cryptomehedi" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptomehedi&" alt="cryptomehedi" /></p>
