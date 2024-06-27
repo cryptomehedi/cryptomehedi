@@ -35,8 +35,8 @@
 ### Front-End Development
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&style=plastic)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)  
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white&style=plastic)  
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white&style=plastic)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white&style=plastic)
 ![react-query](https://img.shields.io/badge/-React%20Query-orange?style=for-the-badge&logo=react-query&logoColor=white&style=plastic)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react&logoColor=white&style=plastic)
