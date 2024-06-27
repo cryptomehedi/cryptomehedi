@@ -22,7 +22,8 @@
 ## 🛠️ Skills
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptomehedi" alt="cryptomehedi" /></a> </p>
-- 👨‍💻 All of my projects are available at [**Crypto Mehedi**](https://crypto-mehedi.web.app)
+
+- 👨‍💻 All of my projects are available at [**cryptomehedi**](https://crypto-mehedi.web.app)
 
 
 ### Languages
